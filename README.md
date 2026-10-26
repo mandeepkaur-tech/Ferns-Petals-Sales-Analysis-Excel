@@ -17,6 +17,14 @@
 - [Data Preparation Summary](#-data-preparation-summary)
 - [What Was Done in Excel](#-what-was-done-in-excel)
 - [Dashboard Overview](#-dashboard-overview)
+  - [1. All Occasions Dashboard](#1-All-Occasions-Dashboard)
+  - [2. Anniversary Dashboard](#2-Anniversary-Dashboard)
+  - [3. Birthday Dashboard](#3-Birthday-Dashboard)
+  - [4. Diwali Dashboard](#4-Diwali-Dashboard)
+  - [5. Holi Dashboard](#5-Holi-Dashboard)
+  - [6. Raksha Bandhan Dashboard](#6-Raksha-Bandhan-Dashboard)
+  - [7. Valentine's Day Dashboard](#7-Valentine's-Day-Dashboard)
+
 - [Analysis & Visualizations](#-analysis--visualizations)
   - [1. Total Revenue](#1-total-revenue)
   - [2. Average Order & Delivery Time](#2-average-order--delivery-time)
@@ -166,7 +174,7 @@ Every table was profiled and validated before analysis.
 ![Diwali Dashboard](https://github.com/mandeepkaur-tech/Ferns-Petals-Sales-Analysis-Excel/blob/main/Diwali.png)
 ![Holi Dashboard](https://github.com/mandeepkaur-tech/Ferns-Petals-Sales-Analysis-Excel/blob/main/Holi.png)
 ![Raksha Bandhan Dashboard](https://github.com/mandeepkaur-tech/Ferns-Petals-Sales-Analysis-Excel/blob/main/Raksha%20Bandhan.png)
-![Valentine Dashboard](https://github.com/mandeepkaur-tech/Ferns-Petals-Sales-Analysis-Excel/blob/main/Valentine's%20Day.png)
+![Valentine's Day Dashboard](https://github.com/mandeepkaur-tech/Ferns-Petals-Sales-Analysis-Excel/blob/main/Valentine's%20Day.png)
 
 > ℹ️ The saved workbook has the **Occasion slicer set to Valentine's Day**, so the dashboard opens showing Valentine's figures (₹3,31,930 revenue, 113 orders). Clear the slicer (funnel icon with ✕) to see the full-year numbers used in this README.
 
